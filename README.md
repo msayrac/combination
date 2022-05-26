@@ -1,4 +1,4 @@
-# factoriyel
+# combination
 
 import java.util.Scanner;
 
